@@ -7,6 +7,7 @@
 [<img align="left" alt="Hirmay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<br />
 
 ![Hirmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirmay&show_icons=true&theme=radical)
 
