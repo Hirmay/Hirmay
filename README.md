@@ -8,12 +8,7 @@
 
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Hirmay's GitHub Stats" src="https://github-readme-stats.Hirmay.vercel.app/api?username=Hirmay&show_icons=true&hide_border=true" />
-
-</details>
+![Hirmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirmay&show_icons=true&theme=radical)
 
 <br />
 <br />
