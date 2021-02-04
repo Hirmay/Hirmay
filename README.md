@@ -9,7 +9,7 @@
 <br />
 <br />
 
-### My Stats
+### GitHub Stats
 
 ![Hirmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirmay&show_icons=true&theme=radical)
 
