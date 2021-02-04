@@ -1,4 +1,4 @@
-### Hello there, Im Hirmay 👋
+### Hello there, I'm Hirmay 👋
 
 ## Connect with me:
 
