@@ -1,5 +1,6 @@
 ### Hello there, I'm Hirmay 👋
-##### - Computer Science Student <\br> - Interested in QC
+##### - Computer Science Student
+- Interested in QC
 
 #### Connect with me:
 
