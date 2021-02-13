@@ -1,6 +1,9 @@
 ### Hello there, I'm Hirmay 👋
-##### - Computer Science Student
-- Interested in QC
+#### About me: I am an undergrad currently studying Computer Science but also am keen towards Quantum Computing
+- Currently in the process of exploring Quantum Computing and probably looking to do some amateur research on it
+- Looking for oppurtunies in quantum computing especially internships
+- Trying to better my knowledge of Quantum Mechanics
+- Occasionaly will try something completely random just for fun :)
 
 #### Connect with me:
 
