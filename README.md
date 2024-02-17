@@ -7,7 +7,7 @@
 
 #### Connect with me:
 
-[<img align="center" alt="Hirmay | LinkedIn" width="150px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />][linkedin]
+[<img align="center" alt="Hirmay | LinkedIn" width="150px" src="https://i.pinimg.com/originals/d3/3b/d9/d33bd9baa83a336184055c07dc8ccaa8.gif" />][linkedin]
 [<img align="center" alt="Hirmay | Instagram" width="90px" src="https://miro.medium.com/max/1400/1*652P1AKOUT1QTwswDDu0QA.gif" />][medium]
 
 <br />
