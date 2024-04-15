@@ -7,7 +7,8 @@
 - Looking for oppurtunies in quantum computing especially internships
 - Trying to better my knowledge of Quantum Mechanics
 - Occasionaly will post some repository completely random just for fun :)
-- Know about my experiences: [Resume](https://www.overleaf.com/9986381551ktmkhhpggstc#b8de03)
+- Know about my experiences: [Resume](https://github.com/Hirmay/Hirmay/files/14977972/resume-2.pdf)
+
 
 #### Connect with me:
 
